@@ -35,7 +35,7 @@ function App() {
       </div>
       <button
         onClick={resetHandler}
-        className="bg-[#0398d4] text-white px-5 py-2 rounded-sm text-lg">
+        className="bg-[#0398d5] text-white px-5 py-2 rounded-sm text-lg">
         Reset
       </button>
     </div>
